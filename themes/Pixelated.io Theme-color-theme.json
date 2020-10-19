@@ -1,0 +1,92 @@
+{
+	"tokenColors": [
+		{
+			"settings": {
+				"background": "#161A1C",
+				"foreground": "#C0B6A8"
+			}
+		},
+		{
+			"name": "Comment",
+			"scope": "comment",
+			"settings": {
+				"fontStyle": "",
+				"foreground": "#AEAEAE"
+			}
+		},
+		{
+			"name": "String",
+			"scope": "string",
+			"settings": {
+				"fontStyle": "",
+				"foreground": "#B9A185"
+			}
+		},
+		{
+			"name": "Number",
+			"scope": "constant.numeric",
+			"settings": {
+				"foreground": "#B9A185"
+			}
+		},
+		{
+			"name": "Keyword",
+			"scope": "keyword",
+			"settings": {
+				"fontStyle": "",
+				"foreground": "#FFFFFF"
+			}
+		},
+		{
+			"name": "Entity",
+			"settings": {
+				"foreground": "#B8ADA0"
+			}
+		},
+		{
+			"name": "Storage",
+			"scope": "storage",
+			"settings": {
+				"foreground": "#A1877E"
+			}
+		},
+		{
+			"name": "Constant",
+			"scope": "constant",
+			"settings": {
+				"foreground": "#A1877E"
+			}
+		},
+		{
+			"name": "Invalid",
+			"scope": "invalid",
+			"settings": {
+				"foreground": "#F3D651"
+			}
+		},
+		{
+			"name": "Class (definition)",
+			"scope": "entity.name",
+			"settings": {
+				"fontStyle": "bold",
+				"foreground": "#B9A185"
+			}
+		},
+		{
+			"name": "Variable",
+			"scope": "variable",
+			"settings": {
+				"foreground": "#8D776E"
+			}
+		}
+	],
+	"colors": {
+		"editor.background": "#161A1C",
+		"editorCursor.foreground": "#D0C179",
+		"editor.foreground": "#B8ADA0",
+		"editorWhitespace.foreground": "#BFBFBF",
+		"editor.lineHighlightBackground": "#0000001F",
+		"editor.selectionBackground": "#2A4750"
+	},
+	"name": "Pixelated.io Theme"
+}

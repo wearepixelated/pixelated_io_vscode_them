@@ -1,0 +1,21 @@
+{
+    "name": "pixelatedio",
+    "displayName": "PixelatedIO",
+    "description": "Pixelated.io Theme",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.50.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Pixelated.io Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Pixelated.io Theme-color-theme.json"
+            }
+        ]
+    }
+}
